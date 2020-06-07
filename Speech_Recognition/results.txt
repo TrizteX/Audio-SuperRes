@@ -1,0 +1,11 @@
+ZA	: original 		- 75.93%
+	: downsampled 		- 61.21%
+	: super-resolution 	- 66.77%
+
+AS	: original 		- 91.59%
+	: downsampled 		- 18.91%
+	: super-resolution 	- 89.94%
+
+AM	: original 		- 76.98% "a prosthetic inter body than i do nobody calls her disabled so" 
+	: downsampled 		- 67.36% "a prosthetic inter body then i do nobody calls her disabled so" 
+	: super-resolution 	- 80.40%
